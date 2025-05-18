@@ -1,0 +1,35 @@
+{
+    "3599669": {
+        "Status": "Entregue",
+        "user": "413749917396238336",
+        "GuildServerID": "1228767170519892160",
+        "ID": "carrinho_413749917396238336",
+        "IdCompra": "3599669",
+        "Metodo": "Saldo",
+        "Data": "2024-04-21T21:46:13.685Z",
+        "messageinfoprodutos": "Não configurado ainda... x1",
+        "ProdutosComprados": "Não configurado ainda... - 1\n",
+        "valortotal": "10.00",
+        "IDMessageLogs": "1231722697503805532",
+        "IDChannelLogs": "1229272922531696671",
+        "produtosentregue": "📦 | Entrega do Produto: 1 - 1/1\nTESTE\n\n"
+    },
+    "384392333-59b6e4bf-b86a-4014-9591-884635f9e637": {
+        "Status": "Cancelado",
+        "user": "1032562339955871765",
+        "GuildServerID": "1228767170519892160",
+        "ID": "carrinho_1032562339955871765"
+    },
+    "76021168861": {
+        "Status": "Cancelado",
+        "user": "1032562339955871765",
+        "GuildServerID": "1228767170519892160",
+        "ID": "carrinho_1032562339955871765"
+    },
+    "76021537177": {
+        "Status": "Pendente",
+        "user": "1032562339955871765",
+        "GuildServerID": "1228767170519892160",
+        "ID": "carrinho_1032562339955871765"
+    }
+}

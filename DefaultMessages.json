@@ -1,0 +1,6 @@
+{
+    "ConfigGeral": {
+        "embeddesc": "#{desc}\n🪐 **| Nome: #{nome}**\n💸 **| Preço: __R$#{preco}__**\n📦 **| Estoque: __#{estoque}__**",
+        "embedtitle": "#{nome} | Produto"
+    }
+}
